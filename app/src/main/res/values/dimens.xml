@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "edgeLeft">16dp</dimen>
+    <dimen name = "edgeRight">16dp</dimen>
+    <dimen name = "edgeTop">16dp</dimen>
+    <dimen name = "edgeBottom">16dp</dimen>
+    <dimen name = "buttonLeft">16dp</dimen>
+    <dimen name = "buttonRight">16dp</dimen>
+    <dimen name = "interButton">8dp</dimen>
+    <dimen name = "general16">16dp</dimen>
+    <dimen name = "general8">8dp</dimen>
+</resources>

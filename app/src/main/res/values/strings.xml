@@ -1,0 +1,16 @@
+<resources>
+    <string name="title">NFL Score Counter</string>
+    <string name="team">Team</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="score_at_start">0</string>
+    <string name="app_name">americanFootballCounter</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="fieldgoal">Fieldgoal</string>
+    <string name="pat">PAT</string>
+    <string name="tpc">2-Point-Conversion</string>
+    <string name="safety">Safety</string>
+    <string name="reset">Reset</string>
+    <string name="increaseIndex">+</string>
+    <string name="decreaseIndex">-</string>
+</resources>
